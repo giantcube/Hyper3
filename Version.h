@@ -35,7 +35,7 @@
   /**
    * Marlin release version identifier
    */
-  #define SHORT_BUILD_VERSION "A.K.M & CAPO"
+  #define SHORT_BUILD_VERSION "Hyper3 1.0.0"
 
   /**
    * Verbose version identifier which should contain a reference to the location
@@ -78,17 +78,17 @@
    * has a distinct Github fork— the Source Code URL should just be the main
    * Marlin repository.
    */
-  #define SOURCE_CODE_URL "SANATBAZR.COM"
+  #define SOURCE_CODE_URL "https://github.com/giantcube/Hyper3"
 
   /**
    * Default generic printer UUID.
    */
-  #define DEFAULT_MACHINE_UUID "cede2a2f-41a2-4748-9b12-c55c62f367ff"
+  #define DEFAULT_MACHINE_UUID "32ba3875-3c7d-449c-943f-62f4ce92013c"
 
   /**
    * The WEBSITE_URL is the location where users can get more information such as
    * documentation about a specific Marlin release.
    */
-  #define WEBSITE_URL "SANATBAZR.COM"
+  #define WEBSITE_URL "https://hamidfzm.ir"
 
 #endif // USE_AUTOMATIC_VERSIONING
